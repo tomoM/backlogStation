@@ -25,7 +25,10 @@ backlog space add --name myspace --host myspace.backlog.com
 ```
 myspace の部分は任意のスペース名、myspace.backlog.com の部分は利用しているbacklogのURLからhttps:// を除いた情報を入力してください。
 
-## 使い方
+APIキーの発行はBacklog公式ページのAPIの設定を読み、発行してください。  
+https://support-ja.backlog.com/hc/ja/articles/360035641754-API%E3%81%AE%E8%A8%AD%E5%AE%9A
+
+## 使い方（コマンド一覧）
 
 ```bash
 # 自分の課題一覧
