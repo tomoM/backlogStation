@@ -23,6 +23,7 @@ npm link
 backlog space add --name myspace --host myspace.backlog.com
 # APIキーの入力を求められます
 ```
+myspace の部分は任意のスペース名、myspace.backlog.com の部分は利用しているbacklogのURLからhttps:// を除いた情報を入力してください。
 
 ## 使い方
 
