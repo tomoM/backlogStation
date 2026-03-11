@@ -1,11 +1,12 @@
 # Backlog Station
 
-複数のBacklogスペースの情報を横断的に管理できるCLIツール。
+複数のBacklogスペースの情報を横断的に管理できるCLIツール。  
 AIエージェント（Claude Code / OpenAI Codex / Gemini CLI）がBash経由で呼び出すことも可能なようにしています。
 
 ## 動作環境
 
 - **macOS専用**（APIキー管理にmacOS Keychainを使用）
+- windowsOS版も予定
 - Node.js 18以上
 
 ## セットアップ
